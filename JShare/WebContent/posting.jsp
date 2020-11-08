@@ -132,7 +132,7 @@
      <tr>
       <td width="0">&nbsp;</td>
       <td align="center" width="76">분류</td>
-      <td width="0">디지털/가전</td>
+      <td width="0">전자기기</td>
      </tr>
         <tr height="1" bgcolor="#dddddd"><td colspan="4" width="407"></td></tr>
      <tr>
@@ -162,7 +162,7 @@
     <tr>
       <td width="0">&nbsp;</td>
       <td align="center" width="76">조회수</td>
-      <td width="0">115</td>
+      <td width="0">20</td>
      </tr>
 	 <tr height="1" bgcolor="#dddddd"><td colspan="4" width="407"></td></tr>
     <tr>
